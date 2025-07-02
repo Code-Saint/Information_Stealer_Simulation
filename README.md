@@ -54,8 +54,6 @@ pip install -r requirements.txt
 
 ## 🛠 Run the Stealer (on Windows):
 
-Launch the Flask app:
-
 ```bash
 python3 info_stealer.py
 ```
