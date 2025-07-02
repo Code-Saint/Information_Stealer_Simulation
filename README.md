@@ -50,7 +50,12 @@ It is designed to demonstrate how system compromise can lead to loss of critical
 ### Install Dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
-## 🛠 Run the Stealer (on Windows):
+### 🛠 Run the Stealer (on Windows):
+
+Launch the Flask app:
+
 ```bash
 python3 info_stealer.py
+```
